@@ -12,6 +12,7 @@ PLOTLY_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
 FEMALE_COLOR = "rgb(239, 85, 59)"
 app = dash.Dash(__name__,
                 external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
+app.title = "HK Marathon 2021 Data Analytics"
 # styling the sidebar
 SIDEBAR_STYLE = {
     "position": "fixed",
