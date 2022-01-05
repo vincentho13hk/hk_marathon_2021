@@ -1,0 +1,76 @@
+{
+  "race": [
+    {
+      "name": "MARATHON ELITE",
+      "nameChi": "馬拉松精英組",
+      "id": 479447,
+      "count": 284
+    },
+    {
+      "name": "MARATHON RUN1",
+      "nameChi": "馬拉松1組",
+      "id": 479448,
+      "count": 1571
+    },
+    {
+      "name": "MARATHON RUN2",
+      "nameChi": "馬拉松2組",
+      "id": 479449,
+      "count": 1299
+    },
+    {
+      "name": "HALF MARATHON ELITE",
+      "nameChi": "半馬拉松精英組",
+      "id": 479450,
+      "count": 266
+    },
+    {
+      "name": "HALF MARATHON RUN 1",
+      "nameChi": "半馬拉松1組",
+      "id": 479451,
+      "count": 1410
+    },
+    {
+      "name": "HALF MARATHON RUN 2",
+      "nameChi": "半馬拉松2組",
+      "id": 479452,
+      "count": 1858
+    },
+    {
+      "name": "HALF MARATHON RUN 3",
+      "nameChi": "半馬拉松3組",
+      "id": 479453,
+      "count": 1745
+    },
+    {
+      "name": "10KM ELITE",
+      "nameChi": "十公里精英組",
+      "id": 479454,
+      "count": 162
+    },
+    {
+      "name": "10KM RUN1",
+      "nameChi": "十公里1組",
+      "id": 479455,
+      "count": 1548
+    },
+    {
+      "name": "10KM RUN2",
+      "nameChi": "十公里2組",
+      "id": 479456,
+      "count": 1973
+    },
+    {
+      "name": "10KM RUN3",
+      "nameChi": "十公里3組",
+      "id": 479457,
+      "count": 1987
+    },
+    {
+      "name": "10KM RUN4",
+      "nameChi": "十公里4組",
+      "id": 479458,
+      "count": 945
+    }
+  ]
+}
